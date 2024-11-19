@@ -7,30 +7,30 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("20185438"))
+API_HASH = getenv("c8f3cb6db40e4eb6e7e43866660e54ac")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("8016992775:AAFo8yxC8GLWqrRYGoKlrr6NTBDzQn3FC-c")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","The_Architect04")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Love_beatz_bot")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","AmritaMusicBot")
+BOT_USERNAME = getenv("BOT_USERNAME","Love x beats")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
 
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://monivps5:monivps5@cluster0.kmbq8we.mongodb.net/?retryWrites=true&w=majority")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", None))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002354592685))
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7224419362))
+OWNER_ID = int(getenv("OWNER_ID", 7712969541))
 
 
 # make your bots privacy from telegra.ph and put your url here 
@@ -44,15 +44,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Marwin040/AmritaXMusic",
+    "https://github.com/Marwin040/Popcorn-",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Team_Supporty")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT","https://t.me/Team_Supporty")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Team_Hypers_Networks")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT","https://t.me/moonz_lightx")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
