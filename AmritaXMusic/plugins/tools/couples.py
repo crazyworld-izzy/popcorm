@@ -14,8 +14,8 @@ from AmritaXMusic.mongo.couples_db import _get_image, get_couple
 POLICE = [
     [
         InlineKeyboardButton(
-            text="|| ˹𖤍 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗚𝗥𝗢𝗨𝗣𖤍˼ ||",
-            url=f"https://t.me/AmritaMusicBot?startgroup=true",
+            text="🖤 ᴀᴅᴅ ᴍᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ✨",
+            url=f"https://t.me/Love_beatz_bot?startgroup=true",
         ),
     ],
 ]
