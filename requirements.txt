@@ -38,6 +38,12 @@ wget
 git+https://github.com/KurimuzonAkuma/pyrogram@dev
 yt-dlp
 bing_image_downloader
+# Audio Processing Libraries for Higher Sound Quality and Stereo Processing:
+librosa>=0.8.0  # For music and audio analysis, including stereo support
+soundfile>=0.10.3  # For reading and writing sound files in various formats
+audioread>=2.1.9  # To decode audio files for playback and processing
+pydub>=0.25.1  # For simple audio manipulation (e.g., slicing, concatenation)
+scipy>=1.9.0  # For advanced signal processing techniques
 git+https://github.com/alexmercerind/youtube-search-python@main
 git+https://github.com/joetats/youtube_search@master
 git+https://github.com/Vivekkumar-IN/TheApi@main
