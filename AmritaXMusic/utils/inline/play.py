@@ -76,7 +76,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
            [
             InlineKeyboardButton(text=" 𝐃𝝴𝛄𝝴𝖑𖦹𝞀𝖗 ", url=f"https://t.me/Itz_alpha_dude"),
-            InlineKeyboardButton(text="𝀤ٜ𖦹 𝘄 𝐍 𞥄𝝴 𝗥 𞥇", url=f"https://t.me/nilavin_algie_ival"),           
+            InlineKeyboardButton(text="𝀤ٜ𖦹 𝘄 𝐍 𞥄𝝴 𝗥 𞥇", url=f"https://t.me/pop_codm"),           
         ],
         [
         InlineKeyboardButton(text="𝐔𝞀𝗱𝛂𝖙𝝴", url=f"https://t.me/beast_fox_network"),
@@ -98,7 +98,7 @@ def stream_markup(_, videoid, chat_id):
          ],
              [
             InlineKeyboardButton(text=" 𝐃𝝴𝛄𝝴𝖑𖦹𝞀𝖗 ", url=f"https://t.me/Itz_alpha_dude"),
-            InlineKeyboardButton(text="𝀤ٜ𖦹 𝘄 𝐍 𞥄𝝴 𝗥 𞥇", url=f"https://t.me/nilavin_algie_ival"),           
+            InlineKeyboardButton(text="𝀤ٜ𖦹 𝘄 𝐍 𞥄𝝴 𝗥 𞥇", url=f"https://t.me/pop_codm"),           
         ],
         [
         InlineKeyboardButton(text="𝐔𝞀𝗱𝛂𝖙𝝴", url=f"https://t.me/beast_fox_network"),
